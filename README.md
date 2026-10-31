@@ -21,3 +21,8 @@ git commit -m "说明这次改了什么"
 git push
 git log --oneline --graph --all
 ```
+
+## 练习记录
+
+- 2026-10-31：第一次在分支 `test-branch` 上改 README，练习「开分支 → 提交 → 推送 → 提 PR」的完整流程。
+
